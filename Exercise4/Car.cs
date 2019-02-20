@@ -54,7 +54,7 @@ namespace Exercise4
             }
             else
             {
-                Console.WriteLine($"Current speed: {CurrentSpeed}.");
+                Console.WriteLine($"Current speed: {CurrentSpeed}.");//
             }
         }
     }
